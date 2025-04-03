@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Baranwal</h1>
 <h3 align="center">A passionate Full Stack Developer from Delhi(India)</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning backend development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
